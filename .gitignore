@@ -1,0 +1,46 @@
+# Logs
+*.log
+logs/
+
+# Reports
+optimization_report_*.txt
+advanced_report_*.txt
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*.swo
+*~
+
+# System files
+.DS_Store
+.AppleDouble
+.LSOverride
+*.swp
+*.swo
+*~
+.~*
+
+# IDE files
+.vscode/
+.idea/
+*.sublime-*
+
+# Config
+.termux-optimization/
+config/
+settings/
+
+# Node modules (if any)
+node_modules/
+npm-debug.log
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment
+.env
+.env.local
